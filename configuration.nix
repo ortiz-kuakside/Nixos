@@ -109,6 +109,7 @@
       rclone
       meslo-lgs-nf
       zsh-powerlevel10k
+      yt-dlp
     ];
   };
 
